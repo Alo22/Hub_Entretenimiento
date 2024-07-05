@@ -1,0 +1,10 @@
+.item img {
+  width: 100px;
+  height: 100px;
+}
+details{
+  display: none;
+}
+.details.show{
+  display: block;
+}
